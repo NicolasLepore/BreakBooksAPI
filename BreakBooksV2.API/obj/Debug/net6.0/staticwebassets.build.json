@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q5mVkLElXLnBrVkqAwmc8BliVd3W1KCVccObPnJtdDg=",
+  "Source": "BreakBooksV2.API",
+  "BasePath": "_content/BreakBooksV2.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
